@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktodoBuddy=self.webpackChunktodoBuddy||[]).push([[956],{956:function(e,n,t){t.r(n);t(791);var u=t(184);n.default=function(){return(0,u.jsx)(u.Fragment,{children:(0,u.jsx)("h2",{className:"vh-100 d-flex justify-content-center align-items-center",children:"404: Page not found"})})}}}]);
+//# sourceMappingURL=956.d8992ac6.chunk.js.map
